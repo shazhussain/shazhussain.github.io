@@ -40,13 +40,11 @@ Successful deployment of a robust Exchange Server infrastructure meeting the org
 Technologies Used:
 Hyper-V for virtualization Microsoft Exchange Server Active Directory integration SSL certificates and security measures Data migration tools and protocols
 
-### Project Name 2
-- Description: Briefly describe the project, its purpose, and key features.
-- Technologies Used: List the technologies, languages, frameworks, etc., used in the project.
-- [Link to Repository](link) (if public)
-- [Link to Live Demo](link) (if applicable)
+### 
+Server Consolidation Project
 
-_(Add more projects as needed)_
+Led a project to consolidate multiple servers, optimizing resource utilization and reducing operational costs by implementing virtualization techniques. Documented the process and presented findings, showcasing the benefits of server consolidation.
+
 
 ## Skills
 
