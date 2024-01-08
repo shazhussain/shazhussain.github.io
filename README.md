@@ -1,5 +1,5 @@
 # shazhussain.github.io
-# [Your Name]'s Portfolio
+# Shaz's Portfolio
 
 Welcome to my portfolio! This repository showcases my projects, skills, and experiences in the world of [Your Field or Expertise].
 
